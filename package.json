@@ -1,0 +1,25 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "an implement of promise",
+  "main": "Promise.js",
+  "scripts": {
+    "test": "promises-aplus-tests Promise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshineuoow/promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "xiongjunwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshineuoow/promise/issues"
+  },
+  "homepage": "https://github.com/sunshineuoow/promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
